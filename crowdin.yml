@@ -1,3 +1,1 @@
-files:
-  - source: /cosinnus/locale/en/LC_MESSAGES/django.po
-    translation: /cosinnus/locale/%two_letters_code%/LC_MESSAGES/django.po
+files: []
